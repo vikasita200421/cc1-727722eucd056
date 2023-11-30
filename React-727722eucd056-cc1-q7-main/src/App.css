@@ -1,0 +1,10 @@
+.digital-clock {
+  font-size: 3em;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
